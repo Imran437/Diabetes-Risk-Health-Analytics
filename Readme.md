@@ -229,7 +229,11 @@ Power BI was used to create calculated measures and analytical segments.
 ### 4. High-Risk Population
 ![High-Risk Population](06_Images/04_high_risk_population.png)
 
+---
 
+## 📄 Project Documentation
+
+[View Project Report](05_Documents/Diabetes_Risk_Health_Analytics_Project_Report.pdf)
 
 ---
 
