@@ -218,13 +218,13 @@ Power BI was used to create calculated measures and analytical segments.
 ## 📊 Dashboard Preview
 
 ### 1. Executive Overview
-![Executive Overview](06_Images/01_executive-overview.png)
+![Executive Overview](06_Images/01_executive_overview.png)
 
 ### 2. Risk Factors
-![Risk Factors](06_Images/02_risk-factors.png)
+![Risk Factors](06_Images/02_risk_factors.png)
 
 ### 3. Health & Biomarkers
-![Health & Biomarkers](06_Images/03_health_&_biomarkers.png)
+![Health & Biomarkers](06_Images/03_health_and_biomarkers.png)
 
 ### 4. High-Risk Population
 ![High-Risk Population](06_Images/04_high_risk_population.png)
